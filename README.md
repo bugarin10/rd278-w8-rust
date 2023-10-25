@@ -17,11 +17,9 @@ This code emulates a linear search in a 3D array. And the sum is only for the pu
 
 The results in Python are the following:
 
-!(python)[https://github.com/bugarin10/rd278-w8-rust/blob/main/static/python.png]
+<img src="https://github.com/bugarin10/rd278-w8-rust/blob/main/static/python.png" />
 
 And the results in Rust are the following:
-
-!(Rust)[https://github.com/bugarin10/rd278-w8-rust/blob/main/static/rust.png]
 
 <img src="https://github.com/bugarin10/rd278-w8-rust/blob/main/static/rust.png" />
 
