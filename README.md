@@ -23,5 +23,5 @@ And the results in Rust are the following:
 
 <img src="https://github.com/bugarin10/rd278-w8-rust/blob/main/static/rust.png" />
 
-As we can see Python used 30% more memory than rust, however, rust ran in a tenth of the time that python did.
+As we can see Rust used 30% more memory than Python, however, it ran in a tenth of the time that python did.
 
