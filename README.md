@@ -17,11 +17,11 @@ This code emulates a linear search in a 3D array. And the sum is only for the pu
 
 The results in Python are the following:
 
-!(python)[https://github.com/bugarin10/rd278-w8-rust/blob/main/static/python.png]
+!(im1)[https://github.com/bugarin10/rd278-w8-rust/blob/main/static/python.png]
 
 And the results in Rust are the following:
 
-!(Rust)[https://github.com/bugarin10/rd278-w8-rust/blob/main/static/rust.png]
+!(im2)[https://github.com/bugarin10/rd278-w8-rust/blob/main/static/rust.png]
 
 As we can see Python used 30% more memory than rust, however, rust ran in a tenth of the time that python did.
 
